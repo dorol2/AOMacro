@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MacroExample", "MacroExample\MacroExample.csproj", "{19E13EC1-D474-44EB-9898-C1EDCB350298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALMarcro.Core", "ALMarcro.Core\ALMarcro.Core.csproj", "{606E98B5-D88D-493A-894B-B3BAE81A753D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19E13EC1-D474-44EB-9898-C1EDCB350298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E13EC1-D474-44EB-9898-C1EDCB350298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E13EC1-D474-44EB-9898-C1EDCB350298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E13EC1-D474-44EB-9898-C1EDCB350298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{606E98B5-D88D-493A-894B-B3BAE81A753D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{606E98B5-D88D-493A-894B-B3BAE81A753D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{606E98B5-D88D-493A-894B-B3BAE81A753D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{606E98B5-D88D-493A-894B-B3BAE81A753D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55E130FA-AA61-4F36-A89C-78C617709FE1}
+	EndGlobalSection
+EndGlobal
