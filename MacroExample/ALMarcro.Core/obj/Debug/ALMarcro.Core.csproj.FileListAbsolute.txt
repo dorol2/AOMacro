@@ -1,0 +1,5 @@
+D:\Download\AOMacro\MacroExample\ALMarcro.Core\obj\Debug\ALMarcro.Core.csproj.AssemblyReference.cache
+D:\Download\AOMacro\MacroExample\ALMarcro.Core\obj\Debug\ALMarcro.Core.csproj.SuggestedBindingRedirects.cache
+D:\Download\AOMacro\MacroExample\ALMarcro.Core\obj\Debug\ALMarcro.Core.Properties.Resources.resources
+D:\Download\AOMacro\MacroExample\ALMarcro.Core\obj\Debug\ALMarcro.Core.csproj.GenerateResource.cache
+D:\Download\AOMacro\MacroExample\ALMarcro.Core\obj\Debug\ALMarcro.Core.csproj.CoreCompileInputs.cache

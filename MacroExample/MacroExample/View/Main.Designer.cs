@@ -1,4 +1,4 @@
-﻿namespace MacroExample
+﻿namespace MacroExample.View
 {
     partial class Main
     {
